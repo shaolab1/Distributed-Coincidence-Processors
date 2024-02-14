@@ -1,4 +1,4 @@
-# This is the read me file
+
 This website provides the open source of DCP firmware and software (CODE) and documents to overview the project and provide technical notes on DCP technology development and user guide with some examples (DOCS).
 
 # CODE
