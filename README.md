@@ -15,6 +15,6 @@ Directory “demo_project” provides some examples and explanations to use DCP 
 
 “DCP -User Guide” provides some useful information, suggestions, and examples to assist the installation, setup, and use of DCP.  
 
-This directory also contains relevant publications that will be updated if new papers will be published. 
+This directory also contains relevant publications. 
 
-
+Note: A file in this directory may occationally be offline for update. 
