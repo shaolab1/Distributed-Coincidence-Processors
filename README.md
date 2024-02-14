@@ -1,5 +1,5 @@
 
-This website provides the open source of DCP firmware and software (CODE) and documents to overview the project and provide technical notes on DCP technology development and user guide with some examples (DOCS).
+This website provides the open source of DCP firmware and software (CODE) and documents to provide overview of the project, technical notes on DCP technology development, and user guide with some examples (DOCS).
 
 # CODE
 Directory “src” contains all DCP firmware and other related codes. 
