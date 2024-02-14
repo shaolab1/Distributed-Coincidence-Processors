@@ -16,5 +16,5 @@ Directory “demo_project” provides some examples and explanations to use DCP 
 “DCP -User Guide” provides some useful information, suggestions, and examples to assist the installation, setup, and use of DCP.  
 
 This directory also contains relevant publications that will be updated if new papers will be published. 
-![image](https://github.com/shaolab1/Distributed-Coincidence-Processors/assets/114771223/d26fb5e8-841e-4b65-9f86-311bcf7e5f15)
+
 
